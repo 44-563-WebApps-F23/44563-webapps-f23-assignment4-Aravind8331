@@ -1,93 +1,74 @@
 .speech{
     font-family: sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     color: black;
 }
 .direction{
     font-family: 'Times New Roman';
-    font-size: 25px;
+    font-size: 16px;
     color: black;
-    background-color:lightcyan;
+    background-color:rgb(138, 245, 245);
 }
 .name{
-   font-family: Georgia, 'Times New Roman', Times, serif;
-   font-size:20px;
-   color: orange;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:18px;
 }
-.name:hover{
-    border: solid 2px rgb(108, 37, 240);
-    text-shadow: 3px 3px 3px rgb(206, 239, 21);
-}
-
 .direction:hover{
-    background-color: rgb(176, 127, 255);
-    color:red
+    background-color: rgba(88, 88, 89, 0.048);
+    color:rgb(241, 94, 94)
 }
 .Dr.Stockmann{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color:aqua;
-    background-color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:18px;
+    color:royalblue;
 }
 .Hovstad{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color:bisque;
-    background-color: chartreuse;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:18px;
+    color:darkviolet;
 }
-.Morten Kiil{
-   font-family: Arial, Helvetica, sans-serif;
+.Morten{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:18px;
    color:crimson;
-   background-color:darksalmon;
 }
 .Petra{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color:azure;
-    background-color: azure;
-}
-.Peter Stockmann{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color:cadetblue;
-    background-color: darkturquoise;
+    font-size:18px;
+    color:rgb(3, 41, 41);
+}
+.Peter{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:18px;
+    color:darkgoldenrod;
 }
 .Mrs.Stockmann{
-font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-color:coral;
-background-color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:18px;
+    color:coral;
 }
 .Billing{
-    font-family: 'Courier New', Courier, monospace;
-    color:dimgrey;
-    background-color: lightgoldenrodyellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:18px;
+    color:yellowgreen;
+}
+table,th,td{
+    border: 1px solid;
+    color: rgb(163, 9, 9);
+    text-align: left;
+    padding:0px;
+    margin: 0px;
+    padding-top: 3px;
+    padding-right: 5px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    
+}
+tr:nth-child(even){
+    background-color: rgb(175, 232, 149);
 }
 
-.Dr.Stockmann:hover{
-    border: solid 2px rgb(240, 145, 37);
-    text-shadow: 3px 3px 3px rgb(239, 21, 206);
-}
-.Hovstad:hover{
-    border: solid 2px rgb(240, 145, 37);
-    text-shadow: 3px 3px 3px rgb(239, 21, 206);
-}
-.Morten Kiil:hover{
-    border: solid 2px rgb(240, 145, 37);
-    text-shadow: 3px 3px 3px rgb(239, 21, 206);
-}
-.Morten Kiil:hover{
-    border: solid 2px rgb(240, 145, 37);
-    text-shadow: 3px 3px 3px rgb(239, 21, 206);
-}
-.Petra:hover{
-    border: solid 2px rgb(240, 145, 37);
-    text-shadow: 3px 3px 3px rgb(239, 21, 206);
-}
-.Peter Stockmann:hover{
-    border: solid 2px rgb(240, 145, 37);
-    text-shadow: 3px 3px 3px rgb(239, 21, 206);
-}
-Mrs.Stockmann:hover{
-    border: solid 2px rgb(240, 145, 37);
-    text-shadow: 3px 3px 3px rgb(239, 21, 206);
-}
-.Billing:hover{
-    border: solid 2px rgb(240, 145, 37);
-    text-shadow: 3px 3px 3px rgb(239, 21, 206);
-}
