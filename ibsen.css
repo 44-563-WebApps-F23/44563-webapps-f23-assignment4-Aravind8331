@@ -1,0 +1,93 @@
+.speech{
+    font-family: sans-serif;
+    font-size: 18px;
+    color: black;
+}
+.direction{
+    font-family: 'Times New Roman';
+    font-size: 25px;
+    color: black;
+    background-color:lightcyan;
+}
+.name{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size:20px;
+   color: orange;
+}
+.name:hover{
+    border: solid 2px rgb(108, 37, 240);
+    text-shadow: 3px 3px 3px rgb(206, 239, 21);
+}
+
+.direction:hover{
+    background-color: rgb(176, 127, 255);
+    color:red
+}
+.Dr.Stockmann{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:aqua;
+    background-color: blue;
+}
+.Hovstad{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:bisque;
+    background-color: chartreuse;
+}
+.Morten Kiil{
+   font-family: Arial, Helvetica, sans-serif;
+   color:crimson;
+   background-color:darksalmon;
+}
+.Petra{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:azure;
+    background-color: azure;
+}
+.Peter Stockmann{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:cadetblue;
+    background-color: darkturquoise;
+}
+.Mrs.Stockmann{
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color:coral;
+background-color: aliceblue;
+}
+.Billing{
+    font-family: 'Courier New', Courier, monospace;
+    color:dimgrey;
+    background-color: lightgoldenrodyellow;
+}
+
+.Dr.Stockmann:hover{
+    border: solid 2px rgb(240, 145, 37);
+    text-shadow: 3px 3px 3px rgb(239, 21, 206);
+}
+.Hovstad:hover{
+    border: solid 2px rgb(240, 145, 37);
+    text-shadow: 3px 3px 3px rgb(239, 21, 206);
+}
+.Morten Kiil:hover{
+    border: solid 2px rgb(240, 145, 37);
+    text-shadow: 3px 3px 3px rgb(239, 21, 206);
+}
+.Morten Kiil:hover{
+    border: solid 2px rgb(240, 145, 37);
+    text-shadow: 3px 3px 3px rgb(239, 21, 206);
+}
+.Petra:hover{
+    border: solid 2px rgb(240, 145, 37);
+    text-shadow: 3px 3px 3px rgb(239, 21, 206);
+}
+.Peter Stockmann:hover{
+    border: solid 2px rgb(240, 145, 37);
+    text-shadow: 3px 3px 3px rgb(239, 21, 206);
+}
+Mrs.Stockmann:hover{
+    border: solid 2px rgb(240, 145, 37);
+    text-shadow: 3px 3px 3px rgb(239, 21, 206);
+}
+.Billing:hover{
+    border: solid 2px rgb(240, 145, 37);
+    text-shadow: 3px 3px 3px rgb(239, 21, 206);
+}
