@@ -9,10 +9,7 @@
     color: black;
     background-color:rgb(138, 245, 245);
 }
-.name{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size:18px;
-}
+
 .direction:hover{
     background-color: rgba(88, 88, 89, 0.048);
     color:rgb(241, 94, 94)
@@ -71,4 +68,31 @@ table,th,td{
 tr:nth-child(even){
     background-color: rgb(175, 232, 149);
 }
-
+.Dr.Stockmann:hover {
+    text-shadow: 2px 2px 4px rgba(255, 0, 0, 0.8); /* Apply shadow with a red color and blur */
+    border: 2px solid blue; /* Apply a blue border */
+}
+.Morten:hover {
+    text-shadow: 2px 2px 4px rgba(255, 0, 0, 0.8); /* Apply shadow with a red color and blur */
+    border: 2px solid blue; /* Apply a blue border */
+}
+.Hovstad:hover {
+    text-shadow: 2px 2px 4px rgba(255, 0, 0, 0.8); /* Apply shadow with a red color and blur */
+    border: 2px solid blue; /* Apply a blue border */
+}
+.Peter:hover {
+    text-shadow: 2px 2px 4px rgba(255, 0, 0, 0.8); /* Apply shadow with a red color and blur */
+    border: 2px solid blue; /* Apply a blue border */
+}
+.Mrs.Stockmann:hover {
+    text-shadow: 2px 2px 4px rgba(255, 0, 0, 0.8); /* Apply shadow with a red color and blur */
+    border: 2px solid blue; /* Apply a blue border */
+}
+.Petra:hover {
+    text-shadow: 2px 2px 4px rgba(255, 0, 0, 0.8); /* Apply shadow with a red color and blur */
+    border: 2px solid blue; /* Apply a blue border */
+}
+.Billing:hover {
+    text-shadow: 2px 2px 4px rgba(255, 0, 0, 0.8); /* Apply shadow with a red color and blur */
+    border: 2px solid blue; /* Apply a blue border */
+}
